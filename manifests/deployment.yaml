@@ -18,7 +18,7 @@ spec:
         app: nginx
     spec:
       containers:
-      - image: imvishalvyas/argo-nginx:v1
+      - image: imvishalvyas/argo-nginx:v2
         name: nginx
         resources: {}
 status: {}
